@@ -4,5 +4,5 @@ class Pokemon
 
   end
 
-  def save
+  def self.save
 end
